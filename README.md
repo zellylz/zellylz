@@ -4,7 +4,7 @@
 A versatile software developer interested in all aspects of technology, constantly learning and creating.
 </p>
 ---
-## About Me
+## **About Me**
 
 I’m a Software Engineering student passionate about backend development, system design, and building practical, real-world solutions.
 I continuously work on improving my problem-solving and coding skills while exploring new technologies.
