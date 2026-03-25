@@ -1,10 +1,10 @@
 <h1 align="center">Hi,I'M Zelal </h1>
 
 <p align="center">
-A versatile software developer interested in all aspects of technology, constantly learning and creating.
+<b>A versatile software developer interested in all aspects of technology, constantly learning and creating.</b>
 </p>
 ---
-##  About Me
+<h2 align="left">About Me</h2>
 
 I’m a Software Engineering student passionate about backend development, system design, and building practical, real-world solutions.
 I continuously work on improving my problem-solving and coding skills while exploring new technologies.
