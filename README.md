@@ -48,9 +48,9 @@ I continuously work on improving my problem-solving and coding skills while expl
 
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zellylz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zellylz&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zellylz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zellylz&layout=compact&theme=radical)
 
 ---
 
